@@ -1,0 +1,25 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2022-10-21T14:37:35+02:00",
+  "id": "Bastionado-GRUB",
+  "duration": 4,
+  "title": "Bastionado de GRUB",
+  "summary": "",
+  "source": "GRUB.md",
+  "theme": "",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "bastionado",
+    "grub",
+    "seguridad"
+  ],
+  "tags": [
+    "web"
+  ],
+  "url": "Bastionado-GRUB"
+}
