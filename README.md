@@ -1,2 +1,2 @@
 # Bastionado-GRUB
-Guia hardening del GRUB de LInux
+Guia hardening del GRUB de Linux
